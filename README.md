@@ -99,4 +99,4 @@ customer-shopping-analysis/
 </details>
 
 ## Author
-[Your Name](https://github.com/ZainAli-2001)
+[Zain Ali](https://github.com/ZainAli-2001)
